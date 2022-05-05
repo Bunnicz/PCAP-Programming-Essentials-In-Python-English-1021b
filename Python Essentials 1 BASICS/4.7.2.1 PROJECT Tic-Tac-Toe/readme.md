@@ -145,7 +145,7 @@ Implement the following features:
 
 - the board should be stored as a three-element list, while each element is another three-element list (the inner lists represent rows) so that all of the squares may be accessed using the following syntax:
 ```
-    board[row][column]
+board[row][column]
 ```
 
 - each of the inner list's elements can contain 'O', 'X', or a digit representing the square's number (such a square is considered free)
