@@ -1,18 +1,19 @@
- 4.3.1.9 LAB: Prime numbers - how to find them
+# 4.3.1.9 LAB: Prime numbers - how to find them
+
 LAB
 
 Estimated time
-
 15-20 minutes
-Level of difficulty
 
+Level of difficulty
 Medium
+
 Objectives
 
-    familiarizing the student with classic notions and algorithms;
-    improving the student's skills in defining and using functions.
+- familiarizing the student with classic notions and algorithms;
+- improving the student's skills in defining and using functions.
 
-Scenario
+## Scenario
 
 A natural number is prime if it is greater than 1 and has no divisors other than 1 and itself.
 
@@ -24,9 +25,9 @@ Your task is to write a function checking whether a number is prime or not.
 
 The function:
 
-    is called is_prime;
-    takes one argument (the value to check)
-    returns True if the argument is a prime number, and False otherwise.
+- is called is_prime;
+- takes one argument (the value to check)
+- returns True if the argument is a prime number, and False otherwise.
 
 Hint: try to divide the argument by all subsequent values (starting from 2) and check the remainder - if it's zero, your number cannot be a prime; think carefully about when you should stop the process.
 
@@ -35,6 +36,8 @@ If you need to know the square root of any value, you can utilize the ** operato
 Complete the code in the editor.
 
 Run your code and check whether your output is the same as ours.
-Expected output
 
+## Expected output
+```
 2 3 5 7 11 13 17 19
+```
