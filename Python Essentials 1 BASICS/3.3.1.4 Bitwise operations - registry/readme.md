@@ -20,8 +20,8 @@ If you apply the & operation to the flag_register variable along with the follow
 
 (note the 1 at your bit's position) as the result, you obtain one of the following bit strings:
 
-    00000000000000000000000000001000 if your bit was set to 1
-    0000000000000000000000000000000 if your bit was reset to 0
+- 00000000000000000000000000001000 if your bit was set to 1
+- 0000000000000000000000000000000 if your bit was reset to 0
 
 Such a sequence of zeros and ones, whose task is to grab the value or to change the selected bits, is called a bit mask.
 
