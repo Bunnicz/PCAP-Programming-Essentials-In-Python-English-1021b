@@ -3,11 +3,11 @@
 LAB
 
 Estimated time
-
 20-30 minutes
-Level of difficulty
 
+Level of difficulty
 Medium
+
 Objectives
 
 Familiarize the student with:
