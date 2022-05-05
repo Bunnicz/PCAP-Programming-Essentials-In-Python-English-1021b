@@ -1,4 +1,4 @@
-     3.2.1.14 LAB: Essentials of the while loop
+# 3.2.1.14 LAB: Essentials of the while loop
 
 LAB
 
