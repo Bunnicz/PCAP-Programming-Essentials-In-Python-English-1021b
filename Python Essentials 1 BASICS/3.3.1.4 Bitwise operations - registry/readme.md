@@ -1,4 +1,4 @@
-How do we deal with single bits?
+## How do we deal with single bits?
 
 We'll now show you what you can use bitwise operators for. Imagine that you're a developer obliged to write an important piece of an operating system. You've been told that you're allowed to use a variable assigned in the following way:
 flag_register = 0x1234
