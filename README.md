@@ -32,12 +32,18 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#disclaimer">Disclaimer</a></li>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
 
+<!-- DISCLAIMER -->
+## Disclaimer
+The Websites and the Services also contain content owned by or licensed to Cisco ("Cisco Content"). Cisco owns and retains all rights in the Cisco Content and the Services, including all intellectual property rights. Cisco hereby grants you a limited, revocable, non-sublicensable license to reproduce and display the Cisco Content (excluding any software code) solely for your personal use to view the Websites and otherwise as necessary to use the Services. Except as set forth above, nothing contained in this Agreement shall be construed as conferring by implication, estoppel or otherwise any license or right under any trade secret, patent, trademark, copyright or other intellectual property right of Cisco or any third party. All licenses not expressly granted by Cisco are reserved.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
