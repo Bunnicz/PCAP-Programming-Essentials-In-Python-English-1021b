@@ -12,11 +12,11 @@ Objectives
 
 Familiarize the student with:
 
-    using the while loop;
-    finding the proper implementation of verbally defined rules;
-    reflecting real-life situations in computer code.
+- using the while loop;
+- finding the proper implementation of verbally defined rules;
+- reflecting real-life situations in computer code.
 
-Scenario
+## Scenario
 
 Listen to this story: a boy and his father, a computer programmer, are playing with wooden blocks. They are building a pyramid.
 
@@ -31,8 +31,8 @@ Note: the height is measured by the number of fully completed layers - if the bu
 
 Test your code using the data we've provided.
 
-Test Data
-
+## Test Data
+```
 Sample input: 6
 
 Expected output: The height of the pyramid: 3
@@ -48,3 +48,4 @@ Expected output: The height of the pyramid: 44
 Sample input: 2
 
 Expected output: The height of the pyramid: 1
+```
