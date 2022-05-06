@@ -26,8 +26,9 @@ Your task is to write a program which:
 Create a test file for the code, and check if your histogram contains valid results.
 
 Assuming that the test file contains just one line filled with:
+```
 aBc
-
+```
 samplefile.txt
 
 ## the expected output should look as follows:
