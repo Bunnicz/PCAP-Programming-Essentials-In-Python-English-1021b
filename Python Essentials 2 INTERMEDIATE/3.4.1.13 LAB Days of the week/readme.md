@@ -19,9 +19,9 @@ Objectives
 Your task is to implement a class called Weeker. Yes, your eyes don't deceive you – this name comes from the fact that objects of that class will be able to store and to manipulate the days of the week.
 
 The class constructor accepts one argument – a string. The string represents the name of the day of the week and the only acceptable values must come from the following set:
-
+```
 Mon Tue Wed Thu Fri Sat Sun
-
+```
 Invoking the constructor with an argument from outside this set should raise the WeekDayError exception (define it yourself; don't worry, we'll talk about the objective nature of exceptions soon). The class should provide the following facilities:
 
 - objects of the class should be "printable", i.e. they should be able to implicitly convert themselves into strings of the same form as the constructor arguments;
