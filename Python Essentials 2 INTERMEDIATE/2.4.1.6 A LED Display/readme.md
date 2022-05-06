@@ -35,7 +35,7 @@ Your code has to display any non-negative integer number entered by the user.
 
 Tip: using a list containing patterns of all ten digits may be very helpful.
 ## Test data
-``
+```
 Sample input:
 123
 
@@ -45,7 +45,8 @@ Sample output:
   # ### ### 
   # #     # 
   # ### ### 
-
+```
+```
 Sample input:
 9081726354
 
